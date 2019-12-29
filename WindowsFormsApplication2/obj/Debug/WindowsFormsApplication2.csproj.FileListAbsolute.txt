@@ -1,0 +1,28 @@
+c:\users\pc3\documents\visual studio 2015\Projects\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe.config
+c:\users\pc3\documents\visual studio 2015\Projects\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe
+c:\users\pc3\documents\visual studio 2015\Projects\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.pdb
+c:\users\pc3\documents\visual studio 2015\Projects\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csprojResolveAssemblyReference.cache
+c:\users\pc3\documents\visual studio 2015\Projects\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Form1.resources
+c:\users\pc3\documents\visual studio 2015\Projects\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Properties.Resources.resources
+c:\users\pc3\documents\visual studio 2015\Projects\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csproj.GenerateResource.Cache
+c:\users\pc3\documents\visual studio 2015\Projects\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.exe
+c:\users\pc3\documents\visual studio 2015\Projects\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.pdb
+C:\Users\Lenovo\Desktop\görüntü\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe.config
+C:\Users\Lenovo\Desktop\görüntü\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe
+C:\Users\Lenovo\Desktop\görüntü\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.pdb
+C:\Users\Lenovo\Desktop\görüntü\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csprojAssemblyReference.cache
+C:\Users\Lenovo\Desktop\görüntü\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Form1.resources
+C:\Users\Lenovo\Desktop\görüntü\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Properties.Resources.resources
+C:\Users\Lenovo\Desktop\görüntü\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csproj.GenerateResource.cache
+C:\Users\Lenovo\Desktop\görüntü\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.exe
+C:\Users\Lenovo\Desktop\görüntü\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.pdb
+C:\Users\Lenovo\Desktop\görüntü - Kopya\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe.config
+C:\Users\Lenovo\Desktop\görüntü - Kopya\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe
+C:\Users\Lenovo\Desktop\görüntü - Kopya\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.pdb
+C:\Users\Lenovo\Desktop\görüntü - Kopya\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csprojAssemblyReference.cache
+C:\Users\Lenovo\Desktop\görüntü - Kopya\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Form1.resources
+C:\Users\Lenovo\Desktop\görüntü - Kopya\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Properties.Resources.resources
+C:\Users\Lenovo\Desktop\görüntü - Kopya\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csproj.GenerateResource.cache
+C:\Users\Lenovo\Desktop\görüntü - Kopya\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.exe
+C:\Users\Lenovo\Desktop\görüntü - Kopya\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.pdb
+C:\Users\Lenovo\Desktop\görüntü - Kopya\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Form2.resources

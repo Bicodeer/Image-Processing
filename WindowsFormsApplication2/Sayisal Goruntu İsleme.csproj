@@ -1,0 +1,191 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="14.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{23531C85-ADD6-41FF-8CFD-5E60C00CD951}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>WindowsFormsApplication2</RootNamespace>
+    <AssemblyName>WindowsFormsApplication2</AssemblyName>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <AllowUnsafeBlocks>true</AllowUnsafeBlocks>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form1.Designer.cs">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form2.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form2.Designer.cs">
+      <DependentUpon>Form2.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form3.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form3.Designer.cs">
+      <DependentUpon>Form3.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ImageFunction.cs" />
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="Form1.resx">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form2.resx">
+      <DependentUpon>Form2.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form3.resx">
+      <DependentUpon>Form3.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Properties\img-icon\cikarma.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Properties\img-icon\dondurme.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Properties\img-icon\donusum.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Properties\img-icon\donusum2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Properties\img-icon\duzen.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Properties\img-icon\filter.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Properties\img-icon\filtreleme.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Properties\img-icon\gama.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Properties\img-icon\garfikCizme.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Properties\img-icon\geo.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Properties\img-icon\gray.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Properties\img-icon\hist.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Properties\img-icon\histEsitleme.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Properties\img-icon\histGerme.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Properties\img-icon\log.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Properties\img-icon\negatif.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Properties\img-icon\olcekleme.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Properties\img-icon\oteleme1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Properties\img-icon\piksel.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Properties\img-icon\resim2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Properties\img-icon\rsim.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Properties\img-icon\siyah-beyaz.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Properties\img-icon\toplam.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Properties\img-icon\zoom.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Properties\img-icon\zoomin.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Properties\img-icon\zoomout.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Properties\img-icon\egme.png" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>
